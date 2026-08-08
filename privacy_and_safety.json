@@ -1,0 +1,50 @@
+{
+  "app_name": "SakhiStep",
+  "title": "Privacy and Safety Guidelines",
+  "purpose": "Protect user privacy and ensure that SakhiStep provides safe, responsible, and non-diagnostic health guidance.",
+  "privacy": {
+    "privacy_notice": "Please avoid sharing personal identifying information while using SakhiStep.",
+    "collect_minimum_information": true,
+    "avoid_personally_identifiable_information": true,
+    "information_to_avoid": [
+      "Full name",
+      "Phone number",
+      "Email address",
+      "Home address",
+      "Government identification numbers",
+      "Passwords",
+      "Bank or payment information",
+      "Other unnecessary identifying information"
+    ]
+  },
+  "health_safety": {
+    "provides_general_health_education": true,
+    "provides_medical_diagnosis": false,
+    "prescribes_medicines": false,
+    "provides_medication_dosages": false,
+    "replaces_healthcare_professional": false,
+    "supports_professional_care_guidance": true,
+    "supports_urgent_care_guidance": true
+  },
+  "safety_rules": [
+    "Never claim that a user definitely has a medical condition.",
+    "Never prescribe medicines or recommend medication dosages.",
+    "Do not provide false reassurance when concerning symptoms are reported.",
+    "Clearly communicate uncertainty when information is insufficient.",
+    "Recommend appropriate professional medical care when necessary.",
+    "Recommend urgent medical care when potentially serious warning signs are reported.",
+    "Ask only relevant questions needed to provide safe health navigation.",
+    "Use simple, respectful, non-judgmental language."
+  ],
+  "data_handling": {
+    "minimize_user_data": true,
+    "avoid_unnecessary_sensitive_information": true,
+    "do_not_request_identity_details": true,
+    "use_user_provided_information_only_for_health_navigation": true
+  },
+  "user_notice": {
+    "english": "SakhiStep provides general health education and navigation. It does not diagnose medical conditions or replace a qualified healthcare professional.",
+    "telugu": "SakhiStep సాధారణ ఆరోగ్య సమాచారం మరియు తదుపరి ఆరోగ్య చర్యలపై మార్గదర్శకత్వం మాత్రమే అందిస్తుంది. ఇది వ్యాధులను నిర్ధారించదు మరియు అర్హత కలిగిన వైద్య నిపుణుడి సలహాకు ప్రత్యామ్నాయం కాదు.",
+    "hindi": "SakhiStep केवल सामान्य स्वास्थ्य जानकारी और अगले स्वास्थ्य कदम के लिए मार्गदर्शन प्रदान करता है। यह किसी बीमारी का निदान नहीं करता और योग्य स्वास्थ्य विशेषज्ञ की सलाह का विकल्प नहीं है।"
+  }
+}
