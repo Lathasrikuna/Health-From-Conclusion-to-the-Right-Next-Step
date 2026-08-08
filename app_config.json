@@ -1,0 +1,53 @@
+{
+  "app_name": "SakhiStep",
+  "tagline": "Your Next Health Step",
+  "purpose": "A multilingual, privacy-conscious GenAI health-navigation assistant for women.",
+  "languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+  ],
+  "focus_areas": [
+    "Menstrual Health",
+    "PCOS-related Concerns"
+  ],
+  "features": [
+    "Simple health-language explanations",
+    "Symptom understanding without diagnosis",
+    "Red-flag safety guidance",
+    "Next-step recommendations",
+    "Healthcare provider question generation",
+    "Doctor consultation summary",
+    "Multilingual support",
+    "Privacy-conscious interaction"
+  ],
+  "safety_boundary": {
+    "provides_diagnosis": false,
+    "prescribes_medicine": false,
+    "provides_medication_dosage": false,
+    "provides_general_health_education": true,
+    "recommends_professional_care_when_needed": true,
+    "supports_urgent_care_escalation": true
+  },
+  "privacy": {
+    "collect_minimum_information": true,
+    "avoid_personally_identifiable_information": true,
+    "personal_information_to_avoid": [
+      "Full name",
+      "Phone number",
+      "Email address",
+      "Home address",
+      "Government ID",
+      "Passwords"
+    ]
+  },
+  "ui": {
+    "theme": "Modern women's health",
+    "primary_colors": [
+      "Purple",
+      "Teal",
+      "White"
+    ],
+    "design_style": "Clean, friendly, professional and accessible"
+  }
+}
