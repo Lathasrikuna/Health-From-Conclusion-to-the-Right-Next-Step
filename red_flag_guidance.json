@@ -1,0 +1,60 @@
+{
+  "app_name": "SakhiStep",
+  "title": "Red Flag Guidance",
+  "purpose": "Provide safety-focused health navigation when a user reports potentially concerning symptoms.",
+  "medical_disclaimer": "SakhiStep provides general health education and navigation only. It does not diagnose medical conditions, prescribe medicines, or replace professional medical advice.",
+  "guidance": [
+    {
+      "level": "urgent",
+      "title": "Seek Urgent Medical Care",
+      "description": "Recommend urgent medical evaluation when the user reports severe, rapidly worsening, or potentially serious symptoms.",
+      "examples": [
+        "Severe or rapidly worsening pain",
+        "Fainting or loss of consciousness",
+        "Severe difficulty breathing",
+        "Severe weakness or feeling extremely unwell",
+        "Heavy or unusual bleeding accompanied by significant weakness or dizziness"
+      ],
+      "action": "Seek urgent medical care or emergency assistance."
+    },
+    {
+      "level": "soon",
+      "title": "Talk to a Healthcare Professional Soon",
+      "description": "Persistent, worsening, unusual, or disruptive symptoms should be discussed with a qualified healthcare professional.",
+      "examples": [
+        "Persistent changes in menstrual pattern",
+        "Repeated unusual symptoms",
+        "Symptoms that are getting worse",
+        "Symptoms affecting daily activities",
+        "Ongoing concerns that do not improve"
+      ],
+      "action": "Arrange an appointment with a qualified healthcare professional."
+    },
+    {
+      "level": "monitor",
+      "title": "Monitor and Learn More",
+      "description": "When no warning signs are reported and the concern appears mild, the user can monitor changes while learning about general health information.",
+      "examples": [
+        "Mild temporary changes",
+        "General questions about menstrual health",
+        "Health concerns without warning signs"
+      ],
+      "action": "Monitor the concern and consider discussing persistent changes with a healthcare professional."
+    },
+    {
+      "level": "insufficient_information",
+      "title": "More Information Needed",
+      "description": "If the information provided is insufficient for safe guidance, SakhiStep should not guess or provide a diagnosis.",
+      "action": "Ask relevant follow-up questions or recommend speaking with a qualified healthcare professional."
+    }
+  ],
+  "safety_rules": [
+    "Do not diagnose a medical condition.",
+    "Do not prescribe medication.",
+    "Do not provide medication dosages.",
+    "Do not give false reassurance.",
+    "Clearly communicate uncertainty when information is insufficient.",
+    "Recommend professional care when symptoms may require evaluation.",
+    "Use simple, respectful, and easy-to-understand language."
+  ]
+}
