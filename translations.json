@@ -1,0 +1,100 @@
+{
+  "app_name": "SakhiStep",
+  "title": "Multilingual Translations",
+  "supported_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "te",
+      "name": "Telugu"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "translations": {
+    "app_title": {
+      "en": "SakhiStep",
+      "te": "సఖీస్టెప్",
+      "hi": "सखीस्टेप"
+    },
+    "tagline": {
+      "en": "Your Next Health Step",
+      "te": "మీ తదుపరి ఆరోగ్య అడుగు",
+      "hi": "आपका अगला स्वास्थ्य कदम"
+    },
+    "welcome": {
+      "en": "Welcome to SakhiStep",
+      "te": "సఖీస్టెప్‌కు స్వాగతం",
+      "hi": "सखीस्टेप में आपका स्वागत है"
+    },
+    "main_concern": {
+      "en": "What is your main health concern?",
+      "te": "మీ ప్రధాన ఆరోగ్య సమస్య ఏమిటి?",
+      "hi": "आपकी मुख्य स्वास्थ्य चिंता क्या है?"
+    },
+    "symptoms": {
+      "en": "Describe your symptoms in your own words.",
+      "te": "మీ లక్షణాలను మీ స్వంత మాటల్లో వివరించండి.",
+      "hi": "अपने लक्षणों को अपने शब्दों में बताएं।"
+    },
+    "duration": {
+      "en": "How long have you been experiencing this concern?",
+      "te": "ఈ సమస్య ఎంతకాలంగా ఉంది?",
+      "hi": "यह समस्या आपको कितने समय से है?"
+    },
+    "next_step": {
+      "en": "Get My Next Health Step",
+      "te": "నా తదుపరి ఆరోగ్య అడుగు",
+      "hi": "मेरा अगला स्वास्थ्य कदम"
+    },
+    "understand_concern": {
+      "en": "Understand My Concern",
+      "te": "నా సమస్యను అర్థం చేసుకోండి",
+      "hi": "मेरी चिंता को समझें"
+    },
+    "red_flags": {
+      "en": "Safety Warning Signs",
+      "te": "ఆరోగ్య హెచ్చరిక సంకేతాలు",
+      "hi": "स्वास्थ्य चेतावनी संकेत"
+    },
+    "doctor_questions": {
+      "en": "Questions for a Healthcare Professional",
+      "te": "వైద్య నిపుణుడిని అడగాల్సిన ప్రశ్నలు",
+      "hi": "स्वास्थ्य विशेषज्ञ से पूछने वाले सवाल"
+    },
+    "consultation_summary": {
+      "en": "Prepare for My Doctor Visit",
+      "te": "నా వైద్యుడి సందర్శనకు సిద్ధం అవ్వండి",
+      "hi": "डॉक्टर से मिलने की तैयारी करें"
+    },
+    "privacy": {
+      "en": "Please avoid sharing your name, phone number, address, passwords, or other identifying information.",
+      "te": "మీ పేరు, ఫోన్ నంబర్, చిరునామా, పాస్‌వర్డ్‌లు లేదా ఇతర వ్యక్తిగత గుర్తింపు సమాచారాన్ని షేర్ చేయకుండా ఉండండి.",
+      "hi": "कृपया अपना नाम, फोन नंबर, पता, पासवर्ड या अन्य व्यक्तिगत पहचान संबंधी जानकारी साझा न करें।"
+    },
+    "medical_notice": {
+      "en": "SakhiStep provides general health education and navigation. It does not diagnose medical conditions or replace a qualified healthcare professional.",
+      "te": "SakhiStep సాధారణ ఆరోగ్య సమాచారం మరియు మార్గదర్శకత్వం మాత్రమే అందిస్తుంది. ఇది వ్యాధులను నిర్ధారించదు మరియు అర్హత కలిగిన వైద్య నిపుణుడి సలహాకు ప్రత్యామ్నాయం కాదు.",
+      "hi": "SakhiStep केवल सामान्य स्वास्थ्य जानकारी और मार्गदर्शन प्रदान करता है। यह किसी बीमारी का निदान नहीं करता और योग्य स्वास्थ्य विशेषज्ञ की सलाह का विकल्प नहीं है।"
+    },
+    "more_information": {
+      "en": "More information is needed to provide safe guidance.",
+      "te": "సురక్షితమైన మార్గదర్శకత్వం ఇవ్వడానికి మరింత సమాచారం అవసరం.",
+      "hi": "सुरक्षित मार्गदर्शन देने के लिए अधिक जानकारी आवश्यक है।"
+    },
+    "urgent_care": {
+      "en": "Seek urgent medical care if you have serious or rapidly worsening symptoms.",
+      "te": "తీవ్రమైన లేదా వేగంగా పెరుగుతున్న లక్షణాలు ఉంటే వెంటనే వైద్య సహాయం పొందండి.",
+      "hi": "यदि गंभीर या तेजी से बढ़ते लक्षण हैं, तो तुरंत चिकित्सा सहायता लें।"
+    },
+    "thank_you": {
+      "en": "Thank you for using SakhiStep.",
+      "te": "SakhiStep ను ఉపయోగించినందుకు ధన్యవాదాలు.",
+      "hi": "SakhiStep का उपयोग करने के लिए धन्यवाद।"
+    }
+  }
+}
