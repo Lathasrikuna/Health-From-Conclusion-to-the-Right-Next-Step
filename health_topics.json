@@ -1,0 +1,51 @@
+{
+  "app_name": "SakhiStep",
+  "title": "Women's Health Topics",
+  "description": "General health education topics supported by SakhiStep. This information is for awareness and navigation only and does not provide medical diagnosis.",
+  "topics": [
+    {
+      "id": "menstrual_health",
+      "name": "Menstrual Health",
+      "description": "General information about menstrual cycles, common menstrual concerns, changes in periods, and questions to discuss with a healthcare professional.",
+      "examples": [
+        "Irregular periods",
+        "Period-related discomfort",
+        "Changes in menstrual cycle",
+        "Unusual menstrual patterns"
+      ]
+    },
+    {
+      "id": "pcos_related_concerns",
+      "name": "PCOS-related Concerns",
+      "description": "General educational information about concerns that may be associated with PCOS. SakhiStep does not diagnose PCOS.",
+      "examples": [
+        "Irregular menstrual cycles",
+        "Hormonal health concerns",
+        "Acne-related concerns",
+        "Excess hair growth concerns",
+        "Weight-related health concerns"
+      ]
+    },
+    {
+      "id": "general_reproductive_health",
+      "name": "Reproductive Health",
+      "description": "Basic educational information about women's reproductive health and when it may be useful to speak with a qualified healthcare professional.",
+      "examples": [
+        "Understanding reproductive health",
+        "Health questions to discuss with a doctor",
+        "Changes that require professional attention"
+      ]
+    },
+    {
+      "id": "health_navigation",
+      "name": "Health Navigation",
+      "description": "Helps users understand possible next steps based on the information they provide, without making a diagnosis.",
+      "examples": [
+        "What should I do next?",
+        "When should I talk to a healthcare professional?",
+        "What questions should I ask my doctor?"
+      ]
+    }
+  ],
+  "safety_note": "SakhiStep provides general health education and navigation. It does not diagnose medical conditions, prescribe medicines, or replace professional medical advice."
+}
