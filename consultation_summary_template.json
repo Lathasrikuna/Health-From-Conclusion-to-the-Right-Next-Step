@@ -1,0 +1,35 @@
+{
+  "app_name": "SakhiStep",
+  "title": "Healthcare Consultation Summary",
+  "purpose": "Help users organize their health concerns and prepare for a conversation with a qualified healthcare professional.",
+  "medical_disclaimer": "This summary is generated from information provided by the user. It is not a medical diagnosis and should be reviewed with a qualified healthcare professional.",
+  "summary": {
+    "main_concern": "",
+    "symptoms_in_users_words": "",
+    "when_it_started": "",
+    "duration": "",
+    "frequency": "",
+    "changes_over_time": "",
+    "impact_on_daily_life": "",
+    "relevant_context": "",
+    "previous_healthcare_consultation": "",
+    "questions_for_healthcare_provider": [],
+    "recommended_next_step": ""
+  },
+  "output_rules": [
+    "Use the user's own words whenever possible.",
+    "Do not add symptoms that the user did not mention.",
+    "Do not diagnose a medical condition.",
+    "Do not recommend prescription medicines.",
+    "Clearly separate user-reported information from general guidance.",
+    "Keep the summary short, clear, and easy to show to a healthcare professional.",
+    "If important information is missing, indicate that it is not provided."
+  ],
+  "suggested_questions": [
+    "What could be causing these symptoms?",
+    "Do I need any tests or further evaluation?",
+    "Are there any warning signs I should watch for?",
+    "What should I do if the symptoms continue or get worse?",
+    "When should I follow up with a healthcare professional?"
+  ]
+}
